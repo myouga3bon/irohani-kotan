@@ -1,0 +1,17 @@
+{
+  "name": "いろはに古単",
+  "short_name": "いろはに古単",
+  "description": "桐原書店『古文単語330 Key＆Point』三訂版 準拠の六択単語ドリル",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3FD",
+  "theme_color": "#2B55C9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
