@@ -1,7 +1,7 @@
 {
   "name": "いろはに古単",
   "short_name": "いろはに古単",
-  "description": "桐原書店『古文単語330 Key＆Point』三訂版 準拠の六択単語ドリル",
+  "description": "いいずな書店『古文単語330 Key＆Point』四訂版 準拠の六択単語ドリル",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
